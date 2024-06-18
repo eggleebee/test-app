@@ -6,8 +6,8 @@
 
 [방법1] create-react-app(CRA) 설치
 
-+ 설치중 에러가 난다면
-- npm ERR! code ENOENT
+* 설치중 에러가 난다면
+* npm ERR! code ENOENT
 
 * 해결방법
 * npm -g install create-react-app
@@ -19,7 +19,7 @@
 
 * ES7+ React/Redux/React-Native snippets
 
-**rfce***
+**rfce**
 
 **rafce**
 
