@@ -4,7 +4,7 @@
 
 2. 리액트 설치하기
 
-[방법1] create-react-app(CRA) 설치
++ [방법1] create-react-app(CRA) 설치
 
 * 설치중 에러가 난다면
 * npm ERR! code ENOENT
@@ -13,7 +13,7 @@
 * npm -g install create-react-app
 * npx create-react-app my-app
 
-[방법2] vite 설치
++ [방법2] vite 설치
 
 3. VS코드 확장프로그램 설치
 
